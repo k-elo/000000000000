@@ -12,7 +12,7 @@
     --text-color: #333;
     --light-color: #e6e6ff;
     --dark-color: #333;
-    --font-main: 'Arial', sans-serif;
+    --font-main: 'calibri', sans-serif;
     --transition: all 0.3s ease;
 }
 
@@ -24,7 +24,7 @@ body {
     font-family: var(--font-main);
     line-height: 1.6;
     color: var(--text-color);
-    background-color: #fff;
+    background-color: var(--light-color);
 }
 
 a {

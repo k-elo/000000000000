@@ -1,4 +1,3 @@
-/* CSS Reset */
 * {
     margin: 0;
     padding: 0;
@@ -100,8 +99,8 @@ nav ul li a:hover {
 
 main {
     padding: 40px 0;
-    color: var(--light-color);
-    textcolor: var(--text-color);
+    color: var(--text-color);
+    background-color: var(--light-color);
 }
 
 section {
